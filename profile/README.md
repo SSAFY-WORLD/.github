@@ -1,18 +1,15 @@
 # 🌍 SSAFY-WORLD
-<p align="center"><img src="./assets/ic_launcher.png"></p>
+<p align="center"><img src="./assets/logo-color.png" width="20%"></p>
 
 ```
 📢 SSFAY 9기 관통 프로젝트 
 📢 23.05.14 ~ 23.05.21 (총 1주)
 ```
 
-## 🤔프로젝트 한 줄 설명
-SSAFY 인들을 위한 커뮤니티 서비스를 제공해주는 애플리케이션
-
-## 👉프로젝트 목적
+## 🤔 앱 소개
 SSAFY에서는 기수가 다른 교육생, 같은 교육생끼리 소통할 수 있는 창구가 부족합니다. 싸피월드는 부동산, 맛집, 정보 공유 등 정보의 공유과 축적을 위한 프로젝트입니다. 
 
-## ⚒️ 기능
+## ⚒️ 기능 소개
 - 로그인, 회원가입, 마이페이지
 <img src="https://github.com/SSAFY-WORLD/SSAFY-WORLD/assets/63226023/dd953c50-13e5-48dd-9300-ab13f23e1949" width="20%"/>
 <img src="https://github.com/SSAFY-WORLD/SSAFY-WORLD/assets/63226023/e7812bdf-e0c8-49ac-a6fb-4ac63328d4bf" width="20%"/>
