@@ -1,4 +1,5 @@
 # 🌍 SSAFY-WORLD
+
 <p align="center"><img src="./assets/ic_logo.png" width="20%"></p>
 
 ```
