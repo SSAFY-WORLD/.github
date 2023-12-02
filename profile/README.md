@@ -1,6 +1,6 @@
 # 🌍 SSAFY-WORLD
 
-<p align="center"><img src="./assets/ic_launcher.png" width="20%"></p>
+<p align="center"><img src="https://github.com/SSAFY-WORLD/.github/blob/main/profile/assets/ic_launcher.png" width="20%"></p>
 
 ```
 📢 SSFAY 9기 관통 프로젝트 
